@@ -54,7 +54,7 @@
 - Áudio autoral.
 
 #### <a href="https://drive.google.com/file/d/14RHICAVk_kbKO7eR_ouxN8FrcxeMYHb8/view?usp=drive_link">somClickNivel1</a>
-- Som que toca quando se clica para selecionar a quantidade correta do ingrediente durante a primeira fase, adicionando feedback para o jogador, contribuindo para a jogabilidade.
+- Som que toca quando se clica para selecionar a quantidade correta do ingrediente durante a primeira fase, adicionando feedback para o jogador.
 - Fonte: <a href="https://opengameart.org/content/click-sounds6">OpenGameArt.Org</a>
 
 
