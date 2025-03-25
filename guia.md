@@ -13,47 +13,48 @@
 
 ### Lista dos elementos sonoros:
 
-#### <a href="">somInicial</a>
+#### <a href="https://drive.google.com/file/d/1fD6cDqvtIWILjMBCWfpaEBXa_XBJO_WJ/view?usp=drive_link">somInicial</a>
 - Trilha sonora do mapa de tutorial, determinando a atmosfera do jogo.
 - Áudio autoral.
 
-#### <a href="">somNivelCasa</a>
+#### <a href="https://drive.google.com/file/d/11tTsbK5FDyUVKU7zBlghPhtSMhIb4SmC/view?usp=drive_link">somNivelCasa</a>
 - Trilha sonora do primeiro nível, determinando a atmosfera do jogo.
 - Áudio autoral.
 
-#### <a href="">somNivelFabrica</a>
+#### <a href="https://drive.google.com/file/d/1_DCbb6F8uLcc-hMsOKm4Si6hgjf9h6Hl/view?usp=drive_link">somNivelFabrica</a>
 - Trilha sonora do segundo nível, determinando a atmosfera do jogo.
 - Áudio autoral.
 
-#### <a href="">somNivelEmpresa</a>
+#### <a href="https://drive.google.com/file/d/1h-XJhPhJPtOpgfiB-BhDGWdliQUB4UuU/view?usp=drive_link">somNivelEmpresa</a>
 - Trilha sonora do terceiro nível, determinando a atmosfera do jogo.
 - Áudio autoral.
 
-#### <a href="">somPassosChoco</a>
+#### <a href="https://drive.google.com/file/d/1FTFbVcB8PfAx8bY5bSDhjgj9bS2AQDpW/view?usp=drive_link">somPassosChoco</a>
 - O som toca conforme Choco anda pelo mapa principal, criando dinamismo no jogo.
 - Áudio autoral.
 
-#### <a href="">somPuloChoco</a>
+#### <a href="https://drive.google.com/file/d/1bQ9rpKkVPFnLyEenSKKgg45UBNoZRCzT/view?usp=drive_link">somPuloChoco</a>
 - O som toca conforme a personagem Choco pula, criando dinamismo no jogo.
 - Áudio autoral.
 
-#### <a href="">somPassosEmpresaChoco</a>
+#### <a href="https://drive.google.com/file/d/1CIun4S0ZhhJbWHD1p6mYitOqsyelZU_7/view?usp=drive_link">somPassosEmpresaChoco</a>
 - O som toca conforme Choco anda pelo mapa da empresa, no terceiro nível, criando dinamismo no jogo.
 - Áudio autoral.
 
-#### <a href="">somAgua</a>
+#### <a href="https://drive.google.com/file/d/1KmNXehBgr4tuI4dduRMBfoSgEK_FHgnI/view?usp=drive_link">somAgua</a>
 - Som que toca conforme Choco se aproxima de água no mapa, como em rios e na fonte presente no mapa principal.
 - Áudio autoral.
 
-#### <a href="">somPortaAbrindo</a>
+#### <a href="https://drive.google.com/file/d/1yKxpwElhAULmt5K5XnYnBC0QApleXX2g/view?usp=drive_link">somPortaAbrindo</a>
 - O som é tocado quando Choco entra em um local, adicionando dimensão.
 - Áudio autoral.
 
-#### <a href="">somLatidoChoco</a>
+#### <a href="https://drive.google.com/file/d/1ODc9efWr5TxHEqK-CzNC52K1LFjJ5txR/view?usp=drive_link">somLatidoChoco</a>
 - Latido do cachorro, como comemoração ao final de cada nível.
 - Áudio autoral.
 
-#### <a href="">somClickNivel1</a>
+#### <a href="https://drive.google.com/file/d/14RHICAVk_kbKO7eR_ouxN8FrcxeMYHb8/view?usp=drive_link">somClickNivel1</a>
 - Som que toca quando se clica para selecionar a quantidade correta do ingrediente durante a primeira fase.
 - Fonte: <a href="https://opengameart.org/content/click-sounds6">OpenGameArt.Org</a>
 
+## <a href="https://drive.google.com/file/d/10oDrnbwa4I61_PudTFXlBbV1WDwwYW0W/view?usp=sharing">Vídeo Demo</a>
